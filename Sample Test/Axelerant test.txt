@@ -1,0 +1,22 @@
+127.0.0.1/testing/like_table/http://localhost/phpmyadmin/index.php?route=/sql&db=testing&table=like_table&pos=0
+
+   Showing rows 0 - 12 (13 total, Query took 0.0006 seconds.)
+
+
+SELECT * FROM `like_table`
+
+
+id	framework	
+9	Miguel de Cervantes	
+10	J.R.R. Tolkien	
+11	Antoine de Saint-Exuper	
+12	Charles Dickens	
+13	Antoine de Saint-Exuper	
+14	Charles Dickens	
+15	Charles Dickens	
+16	Charles Dickens	
+17	J.R.R. Tolkien	
+18	Charles Dickens	
+19	Charles Dickens	
+20	Charles Dickens	
+21	Charles Dickens	
